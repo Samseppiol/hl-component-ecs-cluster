@@ -1,0 +1,6 @@
+test_metadata:
+  type: config
+  name: cluster
+  description: specify a cluster name
+
+cluster_name: ${EnvironmentName}-myproject
